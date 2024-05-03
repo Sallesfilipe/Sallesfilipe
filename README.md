@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, sou Filipe Rodrigues 👋
 
 <!--
 **Sallesfilipe/Sallesfilipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:blue_book: Estudando para migrar para a área de dados.
+
+:computer: Trabalho a mais de 15 anos com T.I.
+
+:iphone: Amo tecnologia.
+
+Formado em redes de computadores e estudando na Escola DNC para Ciência de Dados.
